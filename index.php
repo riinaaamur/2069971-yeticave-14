@@ -28,7 +28,7 @@ $user_name = 'Карина'; // укажите здесь ваше имя
 
         <nav class="<?php if ($is_auth == "1"): ?>
         <div class="user-menu__logged">
-            <p>Карина/p>
+            <p>Карина</p>
             <a class="user-menu__bets" href="pages/my-bets.html">Мои ставки</a>
             <a class="user-menu__logout" href="#">Выход</a>
         </div>
