@@ -44,7 +44,6 @@ $user_name = 'Карина'; // укажите здесь ваше имя
                     </li>
                 </ul></p>
                 <?php endif; ?>
-
             </nav>
         </div>
     </header>
